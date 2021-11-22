@@ -1,6 +1,12 @@
 # HW_8_ML_Conf_Imb_U11
 Unit 11 Homework - Risky Business - ML w Imbalanced Lib and Confusion Matrix
 
+# Resampling model process
+
+I examined the LendingClub data with multiple algorithms, to determine which worked best for this data set. 
+The first step was to read in the data, split the data into training and test, and ran the data with a Simple Logistic Regression. 
+These included 
+
 
 
 # Technical Notes
