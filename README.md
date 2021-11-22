@@ -8,6 +8,11 @@ The first step was to read in the data, split the data into training and test, a
 These included 
 
 
+# Ensemble Learning
+
+I applied the Balanced Random Forest Classifier and the Easy Ensemble Classifier to predict loan risk and evaluate each model.
+
+
 
 # Technical Notes
 
