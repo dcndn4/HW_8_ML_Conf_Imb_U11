@@ -19,9 +19,9 @@ I applied the Balanced Random Forest Classifier and the Easy Ensemble Classifier
 ## Libraries
 This Jupyter Lab notebook utilizes the following libraries:
 
- --   arch
+ --   path
 
- --   statsmodels.api
+ --   collections
 
  --   sklearn
 
