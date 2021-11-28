@@ -24,6 +24,8 @@ This Jupyter Lab notebook utilizes the following libraries:
  --   collections
 
  --   sklearn
+ 
+ --   imblearn
 
  --   pandas
 
