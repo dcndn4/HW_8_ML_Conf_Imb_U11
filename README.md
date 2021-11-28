@@ -4,8 +4,27 @@ Unit 11 Homework - Risky Business - ML w Imbalanced Lib and Confusion Matrix
 # Resampling model process
 
 I examined the LendingClub data with multiple algorithms, to determine which worked best for this data set. 
-The first step was to read in the data, split the data into training and test, and ran the data with a Simple Logistic Regression. 
-These included 
+
+The these included a _simple logistic regression_, which yielded the following results:
+balanced accuracy score: 98%
+Confusion Matrix: 615, 10; 102, 18657
+
+Also an oversampling process: _naive random oversampler_ 
+Confusion Matrix: 622, 3; 111, 18648
+
+Also oversampled with _Smote_
+Confusion Matrix: 622, 3; 110, 18649
+
+Then I did an undersampling process with ClusterCentroids, and the result was:
+balanced accuracy score of 99.4%
+confusion matrix: 620,5; 102,18657
+
+Finally I did a combination (over and under) sampling process using the smoteen algorithm:
+balanced accuracy score: 99.32%
+confusion matrix: 622, 3; 110, 18649
+
+The best accuracy score was the undersampled one. 
+
 
 
 # Ensemble Learning
