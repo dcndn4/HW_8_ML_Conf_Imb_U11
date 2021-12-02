@@ -57,4 +57,4 @@ This Jupyter Lab notebook utilizes the following libraries:
 
 # Acknowledgements
 
-I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our TA, Alejandro Esquivel, and out Student Success Manager, Angelica Baraona. I also found the collective Stack Overflow wisdom (especially the Quantitative Finance community) essential as ever. Regarding Natural Language Processing and Machine Learning overall ...
+I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our TA, Alejandro Esquivel, and out Student Success Manager, Angelica Baraona. I also found the collective Stack Overflow wisdom (especially the Quantitative Finance community) essential as ever. Regarding Machine Learning overall I utilized the book "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurelien Geron.
